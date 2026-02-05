@@ -2,5 +2,5 @@
 	path = JavaScript
 	url = https://github.com/SENODROOM/LeetCode-in-JavaScript.git
 [submodule "C++"]
-	path = LeetCode-in-Cplusplus
+	path = C++
 	url = https://github.com/SENODROOM/LeetCode-in-Cplusplus.git
